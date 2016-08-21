@@ -1,0 +1,3 @@
+>> html.fromstring(raw page.content) return an element object
+>> element object just moving in the whole xml 
+>> This can make it generate a new subtree instance : item = etree.fromstring(etree.tostring(item)) // item is an element object
